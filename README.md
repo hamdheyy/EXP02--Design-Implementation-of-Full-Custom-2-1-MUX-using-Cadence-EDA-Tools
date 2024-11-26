@@ -46,6 +46,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
+
+
 ![image](https://github.com/user-attachments/assets/a6b2d56b-8933-44c9-b9e1-f01f983d9ff4)
 
 
@@ -74,6 +76,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
+
+
 ![image](https://github.com/user-attachments/assets/eb1139f1-f299-484d-8e44-bac9f724cb90)
 
 
@@ -87,16 +91,20 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
+
+
  ![image](https://github.com/user-attachments/assets/92eae130-d124-4f8b-a4b5-0040f418f193)
+ 
 
 For Transient Analysis Settings and Output
+
+
  ![image](https://github.com/user-attachments/assets/47f7be45-4763-4d32-9eae-c417d1b7d501)
+
+ 
 
 ![image](https://github.com/user-attachments/assets/3760c857-335e-44c6-9bef-68e1c29e7eb2)
 
-
-
- 
 
 Results:
 1.	The experiment successfully demonstrated the design and implementation of a 2:1 MUX using Cadence EDA tools. 
